@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-725-contract-document-the-behaviour-and-failure",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-725-contract-document-the-behaviour-and-failure": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-725-contract-document-the-behaviour-and-failure",
+    "origin"
+  ]
+}
